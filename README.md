@@ -43,7 +43,7 @@ print("Predicted CO2 for the corresponding Weight and Volume: ",predictCO2)
 ```
 ## Output:
 
-![OUTPUT](./carsout.png)
+![output](carsout.png)
 
 
 
