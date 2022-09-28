@@ -53,7 +53,8 @@ print("Predicted CO2 for the corresponding Weight and Volume: ",predictCO2)
 ```
 ## Output:
 
-![output](./carsout.png)
+![output](./cluster.png)
+![output](./clusterout.png)
 
 
 ## Result
