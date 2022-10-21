@@ -19,6 +19,10 @@ Predict CO2 with appropriate values.
 Display the predicted value.
 ## Program:
 ```python
+#Program to implement multivariate linear regression and predict the output.
+#Developed by: Siva Chandran R
+#RegisterNumber: 22005531
+
 import pandas as pd
 from sklearn import linear_model
 data= pd.read_csv("cars.csv")
